@@ -61,7 +61,7 @@ export default () => (
             <Icon src={logo} alt={`${name} Logo`} key={index} />
           ))}
       </Logos>
-      <Heading>Hello, world!</Heading>
+      <Heading>Hello, world</Heading>
       <Text>Welcome to the Gatsby Tailwind CSS + Emotion Starter.</Text>
       <Footer>
         <a
