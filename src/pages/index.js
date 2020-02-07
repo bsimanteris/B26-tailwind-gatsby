@@ -2,7 +2,7 @@ import tw from "tailwind.macro"
 import React from "react"
 import SEO from "../components/seo"
 import linkedin from "../images/linkedin.svg"
-import github from "../images/github.svg"
+
 
 const logos = [
   {
@@ -69,7 +69,7 @@ export default () => (
           target="_blank"
           rel="noopener noreferrer"
         >
-          <SmallIcon src={linkedin} alt="Githib Icon" />
+          <SmallIcon src={linkedin} alt="LinkedIn" />
         </a>
       </Footer>
     </Main>
