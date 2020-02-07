@@ -62,7 +62,7 @@ export default () => (
           ))}
       </Logos>
       <Heading>Hello, world</Heading>
-      <Text>Welcome to the Gatsby Tailwind CSS + Emotion Starter.</Text>
+      <Text>Welcome to B26</Text>
       <Footer>
         <a
           href="https://github.com/pauloelias/gatsby-tailwind-emotion-starter"
