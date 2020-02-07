@@ -36,7 +36,7 @@ const Text = tw.p`
 `
 
 const Logos = tw.div`
-  flex items-center justify-around mb-6 px-16
+  flex items-center px-8 justify-around mb-6 px-16
 `
 
 const Icon = tw.img`
