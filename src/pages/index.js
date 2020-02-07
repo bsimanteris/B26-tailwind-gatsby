@@ -24,7 +24,7 @@ const Wrapper = tw.div`
 `
 
 const Main = tw.div`
-  p-6 bg-gray-100 rounded-lg shadow-2xl
+  p-6 bg-red-100 rounded-lg shadow-2xl
 `
 
 const Heading = tw.h1`
