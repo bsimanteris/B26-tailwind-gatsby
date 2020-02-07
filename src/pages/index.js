@@ -1,7 +1,7 @@
 import tw from "tailwind.macro"
 import React from "react"
 import SEO from "../components/seo"
-
+import linkedin from "../images/linkedin.svg"
 import github from "../images/github.svg"
 
 const logos = [
