@@ -65,11 +65,11 @@ export default () => (
       <Text>Welcome to B26</Text>
       <Footer>
         <a
-          href="https://github.com/pauloelias/gatsby-tailwind-emotion-starter"
+          href="https://linkedin.com/bsimanteris"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <SmallIcon src={github} alt="Githib Icon" />
+          <SmallIcon src={linkedin} alt="Githib Icon" />
         </a>
       </Footer>
     </Main>
